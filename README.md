@@ -45,8 +45,8 @@
 This Node.js example code reads a csv file from a file path using the fs module and a comma as a delimiter.
 
 '''
-const fileSystem = require("fs");
-const { parse } = require("csv-parse");
+<const fileSystem = require("fs"); />
+<const { parse } = require("csv-parse"); />
 
 const readCSV = filePath => {
 	fileSystem.createReadStream(filePath)
