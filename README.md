@@ -24,7 +24,8 @@
 
  <h2>Tables</h2>
  
-| Book Name | reason why you recommend it| author name | 
+<h1>| Book Name | Reason why you recommend it| author name |<h1>
 |--------|-------------|-------------|
 |The Buried gaint |I absolutely love this book.t’s essentially about memory and forgetting. It’s about terrible atrocities that have happened between different groups of people |by Kazuo Ishiguro|
 |Harry potter|The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. |J.K. Rowling|
+|The Great Indian Novel|This is a satirical novel it is a fictional work that tells the story of the Mahabharata, a famous Indian epic. The book recasts and resets the story in the context of the Indian Independence Movement and the first three decades of post-independence.|Shashi Tharoor |
