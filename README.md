@@ -42,8 +42,6 @@
 ---
 <h2>Code Fencing</h2>
 
-This Node.js example code reads a csv file from a file path using the fs module and a comma as a delimiter.
-
 '''
 const fileSystem = require("fs"); 
 const { parse } = require("csv-parse"); 
@@ -58,7 +56,6 @@ const readCSV = filePath => {
 			console.log(row);
 		})
 } 
-
 '''
 [read and parse a CSV file](https://code.pieces.app/collections/node-js)
 
