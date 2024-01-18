@@ -39,6 +39,28 @@
 > "If you want to shine like a sun, first burn like a sun" - *APJ Abdul Kalam*<br>
 > "To succeed, you must have tremendous perseverance, tremendous will" - *Swami Vivekananda*
 
+---
+<h2>Code Fencing</h2>
+
+This Node.js example code reads a csv file from a file path using the fs module and a comma as a delimiter.
+
+'''
+const fileSystem = require("fs");
+const { parse } = require("csv-parse");
+
+const readCSV = filePath => {
+	fileSystem.createReadStream(filePath)
+		.pipe(parse({
+			delimiter: ",",
+			from_line: 2
+		}))
+		.on("data", function(row) {
+			console.log(row);
+		})
+} 
+'''
+[read and parse a CSV file](https://code.pieces.app/collections/node-js)
+
 
 
 
