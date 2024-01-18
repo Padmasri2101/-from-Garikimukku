@@ -42,7 +42,9 @@
 ---
 <h2>Code Fencing</h2>
 
-'''
+
+```
+
 const fileSystem = require("fs"); 
 const { parse } = require("csv-parse"); 
 
@@ -56,7 +58,8 @@ const readCSV = filePath => {
 			console.log(row);
 		})
 } 
-'''
+
+```
 [read and parse a CSV file](https://code.pieces.app/collections/node-js)
 
 
