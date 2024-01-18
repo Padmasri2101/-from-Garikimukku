@@ -33,7 +33,7 @@
 
 ---
 
-<h2>Quotes<h2>
+<h2>Quotes</h2>
 
 
 > "If you want to shine like a sun, first burn like a sun" - *APJ Abdul Kalam*<br>
