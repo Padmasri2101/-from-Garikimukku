@@ -10,10 +10,12 @@
  1. Chicken briyani<br>
  2. chicken 65<br>
  3. mutton curry<br>
- 
+
 
 
 
  * Tankbund<br>
  * Charminar<br>
  * Luminipark<br>
+
+ [linkofMyMedia](MyMedia.md)
