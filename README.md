@@ -43,23 +43,13 @@
 ---
 <h2>Code Fencing</h2>
 
-This Node.js example code reads a csv file from a file path using the fs module and a comma as a delimiter. 
+This simple Node.js code is used to get the home directory of the current user. 
 
 ```
 
-const fileSystem = require("fs"); 
-const { parse } = require("csv-parse"); 
-
-const readCSV = filePath => {
-	fileSystem.createReadStream(filePath) <br>
-		.pipe(parse({
-			delimiter: ",",
-			from_line: 2
-		}))
-		.on("data", function(row) {
-			console.log(row);
-		})
-} 
+const os = require('os');
+const value =  os.homedir();
+console.log("os.homedir() => " + value); 
 
 ```
 [read and parse a CSV file](https://code.pieces.app/collections/node-js)
