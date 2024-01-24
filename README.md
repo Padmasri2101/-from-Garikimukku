@@ -34,9 +34,9 @@
 ## Quotes
 
 
-> "If you want to shine like a sun, first burn like a sun" - *APJ Abdul Kalam*
+> "If you want to shine like a sun, first burn like a sun" - ***APJ Abdul Kalam***
 
-> "To succeed, you must have tremendous perseverance, tremendous will" - *Swami Vivekananda*
+> "To succeed, you must have tremendous perseverance, tremendous will" - ***Swami Vivekananda***
 
 ---
 ## Code Fencing
