@@ -22,7 +22,7 @@
  ---
  ## Tables
  
-## | Book Name | Reason why you recommend it| author name |
+ ## | Book Name  | Reason why you recommend it| author name |##
 |--------|-------------|-------------|
 |The Buried gaint |I absolutely love this book.t’s essentially about memory and forgetting. It’s about terrible atrocities that have happened between different groups of people |by Kazuo Ishiguro|
 |Harry potter|The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. |J.K. Rowling|
